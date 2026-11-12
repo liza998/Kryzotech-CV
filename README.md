@@ -1,1 +1,1 @@
-# Kryzotech-CV
+# Kryzotech-AI Certificate
